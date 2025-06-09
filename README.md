@@ -28,37 +28,3 @@ npm install
 
 npm run dev
 
-
-⸻
-
-🗂️ Project Structure
-
-bookmart-app/
-├── public/
-├── src/
-│   ├── App.jsx              // Landing Page
-│   ├── main.jsx             // Entry Point with Router
-│   ├── Login.jsx            // Login/Registration Page
-│   ├── BuyerDashboard.jsx   // Buyer Dashboard
-│   ├── SellerDashboard.jsx  // Seller Dashboard
-│   └── index.css            // Optional (global CSS)
-├── package.json
-└── README.md
-
-
-⸻
-
-📸 Preview
-
-Landing Page	Login Page	Buyer Dashboard	Seller Dashboard
-			
-
-
-⸻
-
-🛠 Tech Stack
-	•	React
-	•	React Router DOM
-	•	Vite
-	•	Vanilla CSS / Inline Styling
-	•	localStorage (for temporary session)

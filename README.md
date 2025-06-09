@@ -20,9 +20,6 @@ A simple and elegant React-based bookmarking application for book buyers and sel
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/bookmart-app.git
-cd bookmart-app
-
 2. Install Dependencies
 
 npm install
